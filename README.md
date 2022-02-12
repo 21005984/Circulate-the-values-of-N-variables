@@ -27,6 +27,6 @@ def circulate():
     X = X[n:]+X[:n]
     print("After circulating the values are:",X)
 ## Output:
-![output](.//CIR.png)
+![output](.//CN.png)
 
 ## Result:
