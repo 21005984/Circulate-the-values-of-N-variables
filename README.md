@@ -30,3 +30,4 @@ def circulate():
 ![output](.//CN.png)
 
 ## Result:
+thus the circulate the valus of n variables is executed
