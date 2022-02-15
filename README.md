@@ -18,6 +18,7 @@ print the both value it would be interchanged
 ### Step 6:
 End the program 
 ## Program:
+~~~
 #Program to circulate N values.
 #Developed by:Meiyarasi.V
 #RegisterNumber:21005984
@@ -26,6 +27,7 @@ def circulate():
     n = int(input())
     X = X[n:]+X[:n]
     print("After circulating the values are:",X)
+~~~
 ## Output:
 ![output](.//CN.png)
 
